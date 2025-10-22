@@ -12,7 +12,7 @@ This paper evaluates American Express’s anti-steering rules through the lens o
 - The ruling likely raises the bar for future platform antitrust cases.
 
 ## Files
-- 📄 **Paper PDF**: [`paper/amex_final.pdf`](paper/amex_final.pdf)
+- 📄 **Paper PDF**: [`paper/amex_final.pdf`](https://github.com/xinhuikatrinakuo/amex-anti-steering-paper/blob/main/Outline.pdf)
 - 🖥️ (Optional) Slides: [`slides/amex_slides.pdf`](slides/amex_slides.pdf)
 
 ## Citation
