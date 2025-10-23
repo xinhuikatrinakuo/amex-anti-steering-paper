@@ -12,8 +12,8 @@ This paper evaluates American Express’s anti-steering rules through the lens o
 - The ruling likely raises the bar for future platform antitrust cases.
 
 ## Files
-- 📄 **Final Paper PDF**: [`Final Paper.pdf`](https://github.com/xinhuikatrinakuo/amex-anti-steering-paper/blob/main/Research%20Paper.pdf)
-- 🖥️ **Outline PDF**: [`Outline.pdf`](https://github.com/xinhuikatrinakuo/amex-anti-steering-paper/blob/main/Outline.pdf)
+- 📄 **Final Paper PDF**: [Amex_Final_Papaer.pdf](https://github.com/xinhuikatrinakuo/amex-anti-steering-paper/blob/main/Research%20Paper.pdf)
+- 🖥️ **Outline PDF**: [Amex_Outline.pdf](https://github.com/xinhuikatrinakuo/amex-anti-steering-paper/blob/main/Outline.pdf)
 
 ## Citation
 Kuo, Xinhui Katrina (2025). *Evaluating Anti-Steering Provisions in Two-Sided Markets: Lessons from American Express (Ohio v. Amex).* University of California, Irvine.
