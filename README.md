@@ -4,7 +4,7 @@
 **Focus:** Legal, economic, and policy implications of the Supreme Court’s decision on anti-steering provisions in a two-sided platform.
 
 ## Abstract
-The American Express anti-steering case (***Ohio v. American Express, 2018***) redefined how U.S. courts evaluate competition in two-sided markets (platforms that connect two distinct user groups), such as credit cardholders and merchants. From 
+The American Express anti-steering case (***Ohio v. American Express, 2018***) redefined how U.S. courts evaluate competition in two-sided markets (platforms that connect two distinct user groups), such as credit cardholders and merchants.
 
 This paper analyzes how **anti-steering provisions** (which limit merchant steering to lower-fee cards) influence competition and consumer welfare, and how the Supreme Court’s decision reshaped **antitrust enforcement** for platform industries. And it examines:
 - Payment card network structure and **cross-side network effects**  
